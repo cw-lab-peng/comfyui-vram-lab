@@ -1,0 +1,6 @@
+﻿__pycache__/
+*.pyc
+out/
+workflows/*.json
+!workflows/.gitkeep
+.vscode/
